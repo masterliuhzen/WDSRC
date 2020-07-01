@@ -1,3 +1,12 @@
+% =========================================================================
+% Zhen liu, Xiao-Jun Wu, Zhenqiu Shu, Hefeng Yin, Zhe Chen
+% "Weighted discriminative sparse representation for image classification" in "Neural Processing Letters".
+% Written by Zhen Liu @ JNU
+% Contact: master_liu@163.com
+% The databases in this paper can be available by contacting the first author(master_liu@163.com).
+% June, 2019.
+% =========================================================================      
+
 clear all;
 clc
 warning off;
