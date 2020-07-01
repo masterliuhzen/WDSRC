@@ -4,7 +4,7 @@
 % Written by Zhen Liu @ JNU
 % Contact: master_liu@163.com
 % The databases in this paper can be available by contacting the first author(master_liu@163.com).
-% June, 2019.
+% June, 2020.
 % =========================================================================      
 
 clear all;
@@ -22,7 +22,7 @@ end
 
 for gama  = [0.00001]  %[100 10 1 0.1 0.01 0.001 0.0001 0.00001]
     for lambda  = [0.01]  %[100 10 1 0.1 0.01 0.001 0.0001 0.00001]
-        for sele_num  =3:8
+        for sele_num  = 8 %3:8
             for iter = 1:10
                 Train_Ma  = [];
                 Train_Lab = [];
