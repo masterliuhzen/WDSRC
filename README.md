@@ -23,7 +23,7 @@ WDSRC:  main function of the proposed method
 This code takes the LFW database as an example.
 
 %-------------------------------------------------------------------------
-Contact: lmaster_liu@163.com
+Contact: master_liuzhen@163.com
 % Weighted discriminative sparse representation for image classification, Version 1.0
 % Copyright(c) 2020  Zhen liu, Xiao-Jun Wu, Zhenqiu Shu, Hefeng Yin, Zhe Chen
 % All Rights Reserved.
