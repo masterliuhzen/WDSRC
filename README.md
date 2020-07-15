@@ -5,7 +5,7 @@
 % The code is for the paper:
 
 % Zhen liu, Xiao-Jun Wu, Zhenqiu Shu, Hefeng Yin, Zhe Chen
-% "Weighted discriminative sparse representation for image classification"  in "Neural Processing Letters".
+% "Weighted discriminative sparse representation for image classification"  will be in "Neural Processing Letters".
 
 % ----------------------------------------------------------------------
 % Permission to use, copy, or modify this software and its documentation
